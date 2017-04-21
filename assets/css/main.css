@@ -1,0 +1,132 @@
+body {
+  border: 0px;
+  margin: 0px;
+}
+
+#header {
+  background-color: #E00109;
+  height: 72px;
+}
+#buscar{
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  color: white;
+  border: 2px solid white;
+  border-radius: 20px;
+  width: 84px;
+  height: 30px;
+  left: 560px;
+  bottom: 10px;
+}
+
+#search {
+  position: relative;
+  display: inline-block;
+  margin: 0px;
+  top: 5px;
+}
+#lupa {
+  position: relative;
+  top: 5px;
+}
+#logo {
+  position: relative;
+  top: 16px;
+  left: 160px;
+}
+
+#iconos {
+  position: relative;
+  display: inline-block;
+  left: 350px;
+}
+
+#menu {
+  position: relative;
+  background-color: #4D4D59;
+  height: 39px;
+}
+
+.navbar {
+  position: relative;
+  display: inline-block;
+  left: 160px;
+  color: white;
+  margin: 10px;
+}
+.noticias {
+  position: relative;
+  margin: 20px;
+  left: 160px;
+  right: 160px;
+}
+.sprite {
+    background-image: url(../img/Sprite.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+.corrupcion {
+  display: inline-block;
+  position: relative;
+  background-color: #4D4D59;
+  height: 250px;
+}
+
+.odebrecht{
+  display: inline-block;
+  width: 179px;
+  height: 260px;
+  margin: 0px;;
+}
+.img-odebrecht {
+  width: 425px;
+  height: 250px;
+  background-image: url(../img/Sprite.png);
+  display: inline-block;
+  position: relative;
+  background-position: -1225px 0;
+
+}
+
+#colaboradores{
+  position: relative;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  display: inline-block;
+  bottom: 130px;
+  left: 10px;
+}
+
+/*
+.sprite {
+    background-image: url(../img/Sprite.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+.sprite-alcalde-de-chilca {
+    width: 243px;
+    height: 270px;
+    background-position: 0 0;
+}
+.sprite-alejandra-aramayo {
+    width: 312px;
+    height: 165px;
+    background-position: -243px 0;
+}
+.sprite-anuncio {
+    width: 310px;
+    height: 86px;
+    background-position: -555px 0;
+}
+.sprite-corea-del-norte- {
+    width: 312px;
+    height: 165px;
+    background-position: -865px 0;
+}
+.sprite-real {
+    width: 620px;
+    height: 372px;
+    background-position: -1177px 0;
+}
+*/

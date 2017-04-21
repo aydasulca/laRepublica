@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?fe6ir8');
+  src:  url('../fonts/icomoon.eot?fe6ir8#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?fe6ir8') format('truetype'),
+    url('../fonts/icomoon.woff?fe6ir8') format('woff'),
+    url('../fonts/icomoon.svg?fe6ir8#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-share3:before {
+  content: "\e905";
+}
+.icon-share:before {
+  content: "\e904";
+}
+.icon-search:before {
+  content: "\e906";
+}
+.icon-facebook:before {
+  content: "\e05d";
+}
+.icon-twitter:before {
+  content: "\e05e";
+}
+.icon-facebook-with-circle:before {
+  content: "\e900";
+}
+.icon-instagram-with-circle:before {
+  content: "\e901";
+}
+.icon-twitter-with-circle:before {
+  content: "\e902";
+}
+.icon-youtube-with-circle:before {
+  content: "\e903";
+}
+.icon-share2:before {
+  content: "\ea82";
+}
+.stilo {
+ color: white;
+ font-size: 32px;
+}
+.stiloLupa {
+  color: white;
+}
