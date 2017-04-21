@@ -67,17 +67,19 @@ body {
     display: block;
 }
 .corrupcion {
-  display: inline-block;
   position: relative;
+  display: inline-block;
   background-color: #4D4D59;
   height: 250px;
 }
 
 .odebrecht{
+  position: relative;
   display: inline-block;
-  width: 179px;
-  height: 260px;
-  margin: 0px;;
+  width: 180px;
+  height: 250px;
+  margin: 0px;
+  bottom: 235px;
 }
 .img-odebrecht {
   width: 425px;
@@ -90,12 +92,21 @@ body {
 }
 
 #colaboradores{
-  position: relative;
+  position: absolute;
   font-family: 'Roboto', sans-serif;
   color: white;
   display: inline-block;
-  bottom: 130px;
+  bottom: 15px;
   left: 10px;
+  margin: 0px;
+  font-size: 25px;
+  height: 230px;
+}
+
+.iconos1{
+  left: 10px;
+  top: 220px;
+  position: relative;
 }
 
 /*
